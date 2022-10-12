@@ -1,6 +1,6 @@
 package com.maurya.rohit.Problems.Graph;
 
-import Utils.Utils;
+import com.maurya.rohit.Utils.Utils;
 
 import java.util.*;
 

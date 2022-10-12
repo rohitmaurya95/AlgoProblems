@@ -1,6 +1,6 @@
 package com.maurya.rohit.Problems.BinarySearch;
 
-import Utils.Utils;
+import com.maurya.rohit.Utils.*;
 
 import java.util.List;
 

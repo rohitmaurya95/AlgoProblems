@@ -56,8 +56,8 @@ public class WildcardMatching {
     }
 
     public static void main(String[] args) {
-        String text = "bcaccbabaa";
-        System.out.println(wildCard("bb*c?c*?", text));
+        String text = "";
+        System.out.println(wildCard("c*a*", text));
 //        System.out.println(wildCard("baaa?ab", text));
 //        System.out.println(wildCard("ba*a?", text));
 //        System.out.println(wildCard("a*ab", text));

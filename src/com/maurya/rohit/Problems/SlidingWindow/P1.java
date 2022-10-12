@@ -59,7 +59,7 @@ public class P1 {
                 // Adding the count of subarrays with at most
                 // K distinct elements in the current window
                 count += right - left + 1;
-                System.out.println(right - left + 1);
+             //   System.out.println(right - left + 1);
                 right++;
             }
             return count;
@@ -82,7 +82,7 @@ public class P1 {
 
     public static void main(String[] args){
 
-        int arr[] = { 2, 1, 2, 1, 6 };
+        int arr[] = { 2, 1};
         int n = arr.length;
         int k = 2;
 
